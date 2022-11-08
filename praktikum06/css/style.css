@@ -8,7 +8,13 @@ body {
     background-color: rgb(197, 139, 84);
     padding: 10px;
 }
-
+.menu ul {
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    gap: 10px;
+}
 h1 {
     text-align: center;
 }
