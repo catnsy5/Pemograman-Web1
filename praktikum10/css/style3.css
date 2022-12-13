@@ -1,0 +1,14 @@
+
+.flex {
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+}
+
+input, select {
+    padding: 20px;
+    font-size: medium;
+}
+div h2 {
+    text-align: center;
+}
